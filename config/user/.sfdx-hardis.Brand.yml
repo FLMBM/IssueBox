@@ -1,2 +1,14 @@
 installedApps:
   - git
+sfdxPluginsStdout: |
+  @salesforce/analytics 1.0.1
+  @salesforce/commerce 232.1.0
+  @salesforce/lwc-dev-server 2.11.0
+  sfdmu 4.12.6
+  sfdx-essentials 2.12.0
+  sfdx-git-delta 4.12.1
+  sfdx-hardis 2.68.1
+  sfpowerkit 4.0.3
+  texei-sfdx-plugin 1.14.4
+restDeployDisabled: true
+userEmail: brandon@flavorman.com.bmo

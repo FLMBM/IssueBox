@@ -1,0 +1,23 @@
+{
+  "orgName": "Brand-master_20220205_0916",
+  "edition": "Developer",
+  "features": [
+    "AuthorApex",
+    "DebugApex",
+    "ProcessBuilder",
+    "AnalyticsAdminPerms"
+  ],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "chatterSettings": {
+      "enableChatter": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": true
+    }
+  },
+  "adminEmail": "brandon@flavorman.com.bmo",
+  "username": "brandon@hardis-scratch-Brand-master_20220205_0916.com"
+}

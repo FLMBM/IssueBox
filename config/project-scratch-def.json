@@ -1,5 +1,5 @@
 {
-  "orgName": "IssueBox",
+  "orgName": "HelpDesk",
   "edition": "Developer",
   "features": ["AuthorApex", "DebugApex", "ProcessBuilder","AnalyticsAdminPerms"],
   "settings": {
