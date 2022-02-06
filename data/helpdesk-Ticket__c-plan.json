@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Ticket__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "helpdesk-Ticket__cs.json"
+        ]
+    }
+]

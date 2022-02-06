@@ -3,12 +3,12 @@
         {
             "path": "force-app",
             "default": true,
-            "package": "Issue Box",
+            "package": "Help Desk",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         }
     ],
-    "namespace": "issuebox",
+    "namespace": "helpdesk",
     "sfdcLoginUrl": "https://test.salesforce.com",
     "sourceApiVersion": "53.0",
     "packageAliases": {

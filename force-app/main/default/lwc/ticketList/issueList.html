@@ -1,0 +1,29 @@
+<!--
+  @description       : 
+  @author            : brandon@flavorman.com
+  @group             : 
+  @last modified on  : 02-05-2022
+  @last modified by  : brandon@flavorman.com
+-->
+<template>  
+    <lightning-card title="Ticket List"> 
+        <div class="slds-m-around_medium">  
+            <c-paginator onprevious={handlePrevious} onnext={handleNext} onfirst={handleFirst}  
+              onlast={handleLast} currentpage={currentpage} totalrecords={totalrecords} pagesize={pagesize} totalpages={totalpages}>   
+            </c-paginator>  
+          </div>  
+        <lightning-button label="Latest Tickets" onclick={getLatest}></lightning-button> 
+        
+        
+        <template if:true={tickets.length}>
+            <lightning-datatable
+                    key-field="id"
+                    data={tickets}
+                    columns={columns}
+                    hide-checkbox-column
+                    >
+            </lightning-datatable>
+        </template>
+        
+    </lightning-card>  
+  </template>  

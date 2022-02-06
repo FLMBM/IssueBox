@@ -1,0 +1,46 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "helpdesk__Ticket__c",
+                "referenceId": "Ticket__cRef1"
+            },
+            "helpdesk__Details__c": "Ticket 1",
+            "helpdesk__ExpectedOutcome__c": "ER",
+            "helpdesk__Priority__c": "Low",
+            "helpdesk__ReportedObject__c": "",
+            "helpdesk__ReportedRecord__c": "",
+            "helpdesk__Status__c": "New",
+            "helpdesk__Type__c": "Question",
+            "helpdesk__StepstoReproduce__c": "Repro Steps"
+        },
+        {
+            "attributes": {
+                "type": "helpdesk__Ticket__c",
+                "referenceId": "Ticket__cRef2"
+            },
+            "helpdesk__Details__c": "Ticket 2",
+            "helpdesk__ExpectedOutcome__c": "ER",
+            "helpdesk__Priority__c": "Low",
+            "helpdesk__ReportedObject__c": "",
+            "helpdesk__ReportedRecord__c": "",
+            "helpdesk__Status__c": "New",
+            "helpdesk__Type__c": "Training Request",
+            "helpdesk__StepstoReproduce__c": "Repro Steps"
+        },
+        {
+            "attributes": {
+                "type": "helpdesk__Ticket__c",
+                "referenceId": "Ticket__cRef3"
+            },
+            "helpdesk__Details__c": "Ticket 3",
+            "helpdesk__ExpectedOutcome__c": "ER",
+            "helpdesk__Priority__c": "Low",
+            "helpdesk__ReportedObject__c": "Account",
+            "helpdesk__ReportedRecord__c": "001",
+            "helpdesk__Status__c": "New",
+            "helpdesk__Type__c": "User Creation or Deactivation",
+            "helpdesk__StepstoReproduce__c": "Repro Steps"
+        }
+    ]
+}
